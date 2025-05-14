@@ -1,7 +1,7 @@
 # Sobre mim
 
 Oiie! Seja bem-vindo(a) ao meu GitHub!  
-Sou estudante de **Sistemas de Informação** e apaixonada por tecnologia desde sempre.  
+Sou estudante de **Sistemas de Informação** e obcecada por estudar.  
 Filha de programador, cresci cercada pelo mundo da TI e, inspirada por isso, decidi trilhar meu próprio caminho — inclusive por ser uma escolha ainda incomum entre mulheres, o que me motiva ainda mais a fazer a diferença.
 
 ## Como eu aprendo
