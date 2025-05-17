@@ -6,8 +6,7 @@ Filha de programador, cresci cercada pelo mundo da TI e, inspirada por isso, dec
 
 ## Como eu aprendo
 
-Acredito que a melhor forma de aprender é ensinando.  
-Por isso, gosto de:
+Acredito que a melhor forma de aprender é ensinando.  Por isso, gosto de:
 
 - Criar **resumos bem estruturados**;
 - Manter **repositórios organizados** com anotações, exemplos e materiais de estudo;
